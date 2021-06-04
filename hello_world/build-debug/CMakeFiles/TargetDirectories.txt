@@ -1,0 +1,4 @@
+/home/adam/AIT/Intersem_2021/ComputerVision/CV_Labs/hello_world/build-debug/CMakeFiles/edit_cache.dir
+/home/adam/AIT/Intersem_2021/ComputerVision/CV_Labs/hello_world/build-debug/CMakeFiles/hello.dir
+/home/adam/AIT/Intersem_2021/ComputerVision/CV_Labs/hello_world/build-debug/CMakeFiles/rebuild_cache.dir
+/home/adam/AIT/Intersem_2021/ComputerVision/CV_Labs/hello_world/build-debug/CMakeFiles/graphics.dir
